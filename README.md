@@ -58,14 +58,6 @@ npm run build
 npm run preview
 ```
 
-## 💼 Perfect for Investor Presentations
-
-This simulation is designed specifically for:
-- **Live Demonstrations**: Show real-time drone control capabilities
-- **LinkedIn Sharing**: Professional UI suitable for social media
-- **Investor Meetings**: Demonstrate ease-of-use and advanced AI integration
-- **Proof of Concept**: Showcase autonomous flight and command processing
-
 ## 🛠️ Technology Stack
 
 - **Frontend**: React 18+ with Hooks
@@ -113,13 +105,6 @@ npm run preview      # Preview production build
 npm run lint         # Run ESLint
 ```
 
-## 📄 License
-
-Private project for demonstration purposes.
-
----
-
-**Ready to change the future of autonomous drone control!** 🚁✨
 
 *Built with React, passion, and the vision to revolutionize drone operations.*
 
